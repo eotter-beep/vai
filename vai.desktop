@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=v.ai
+Comment=V.AI (Beta)
+Exec=sh -c 'cd "$(dirname "%k")" && ./launch.sh'
+Icon=utilities-terminal
+Terminal=true
+Type=Application
+Categories=Utility;Application;
